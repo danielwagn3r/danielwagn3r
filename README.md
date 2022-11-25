@@ -2,7 +2,7 @@
 
 📫 How to reach me:
 
-Mastodon: <a rel="me" href="https://fedi.at/@danielwagn3r">@danielwagn3r@fedi.at</a>
+<a rel="me" href="https://fedi.at/@danielwagn3r">Mastodon</a>: https://fedi.at/@danielwagn3r
 
 Threema: https://threema.id/KZS4N4SU
 
