@@ -4,7 +4,7 @@
 
 <a rel="me" href="https://fedi.at/@danielwagn3r">Mastodon</a>: https://fedi.at/@danielwagn3r
 
-Threema: https://threema.id/KZS4N4SU
+Threema: https://threema.id/S649YJF6
 
 💬 Ask me about ...
  - CoderDojo
